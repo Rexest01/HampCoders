@@ -266,7 +266,7 @@ La falta de acceso a servicios eléctricos formales, seguros y certificados no s
 
 #### Business Outcomes:
 - Mis clientes necesitan una solución efectiva y accesible para conectar con proveedores de calidad que les den los productos tecnológicos y eléctricos que requieren en la instalación eléctrica que quieren colocar o corregir.
-- 
+  
 - Estas necesidades se pueden resolver con una solución tecnológica que aproveche los avances de software en avances de análisis de datos, plataformas digitales como una web distribuida bajo una arquitectura orientada a servicios realizada con tecnologías open-source, para facilitar la conexión entre clientes y proveedores.
 
 - Mis clientes iniciales serán propietarios de viviendas, propietarios de negocios y empresas y centros educativos que requieren soluciones rápidas y seguras para sus problemas eléctricos.
@@ -293,6 +293,9 @@ Otras suposiciones que debemos considerar incluyen la disponibilidad de proveedo
 **¿Eso, si se prueba que es falso, causará que nuestro negocio / proyecto no funcione?**
 
 Si estas suposiciones resultan ser falsas, podríamos enfrentar obstáculos importantes. Si no logramos atraer suficientes proveedores, la plataforma no sería atractiva ni útil para los usuarios, lo que pondría en riesgo nuestra capacidad de ofrecer un servicio integral. Si la aceptación de la plataforma no es lo suficientemente alta, perderíamos relevancia frente a métodos tradicionales, lo que podría limitar nuestro crecimiento.
+
+#### 1.2.2.4. Lean UX Canvas
+<img src="https://i.imgur.com/OD3PmHm.png"/>
 
 <hr>
 
