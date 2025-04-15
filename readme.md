@@ -244,6 +244,23 @@ Proveedores: Aquellos que ofrecen servicios eléctricos, como componentes y/o in
 - ¿Qué llevó a la persona a llegar a esta situación?
   Cuando enfrenta un problema eléctrico, ya sea por una falla inesperada o por la necesidad de realizar una instalación, se encuentra en la búsqueda de soluciones rápidas, confiables y certificadas para evitar riesgos y asegurar el correcto funcionamiento de las instalaciones eléctricas.
 
+**How much (Cuánto)**  
+- La falta de acceso a servicios eléctricos formales, seguros y certificados no solo representa un obstáculo para la comodidad del día a día, sino que constituye un riesgo latente para la vida humana y el desarrollo urbano del país. A continuación, se exponen evidencias claras que reflejan la urgencia de una solución integral como ElectroLink:
+
+- Accidentes eléctricos que cobran vidas En 2020, el Perú registró 1,508 accidentes laborales vinculados a la electricidad, de los cuales 14 fueron fatales y más de 1,200 causaron lesiones serias. Este dato alarmante revela la fragilidad de las condiciones eléctricas en contextos laborales.
+📚 Fuente: SGS Perú
+
+- Construcción informal: el epicentro del riesgo El 70% de los accidentes eléctricos en el país tienen su origen en obras de construcción informal, donde no se respetan normativas técnicas ni criterios mínimos de seguridad.
+📚 Fuente: Electrocentro (Gobierno del Perú)
+
+- La amenaza constante de los incendios urbanos Se calcula que 7 de cada 10 incendios urbanos en el Perú son provocados por instalaciones eléctricas defectuosas, lo que equivale a un promedio de 31 siniestros diarios. Una cifra que no solo representa pérdidas materiales, sino también vidas en riesgo.
+📚 Fuente: Revista Construir
+
+- Escuelas expuestas al peligro En zonas como Jaén, el 90% de las instituciones educativas presentan fallas eléctricas, lo que compromete directamente la seguridad de estudiantes y personal docente. Este problema no solo es técnico, sino social.
+📚 Fuente: RPP Noticias
+
+- Viviendas nuevas, problemas antiguos Incluso en proyectos inmobiliarios recientes, el 38% de los limeños manifiestan haber tenido problemas con las instalaciones eléctricas apenas recibieron sus viviendas, lo que deja entrever fallas graves en la fiscalización y calidad de las obras.
+📚 Fuente: Agencia Andina
 <hr>
 
 ## Capítulo II: Requirements Elicitation & Analysis
